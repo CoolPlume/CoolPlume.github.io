@@ -3,11 +3,11 @@
   <title>ZiRuo`Blog</title>
   
   <subtitle>相信自己</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://coolplume.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://coolplume.github.io/"/>
   <updated>2025-08-09T08:48:35.958Z</updated>
-  <id>http://example.com/</id>
+  <id>https://coolplume.github.io/</id>
   
   <author>
     <name>ZiRuo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://coolplume.github.io/posts/4a17b156.html"/>
+    <id>https://coolplume.github.io/posts/4a17b156.html</id>
     <published>2025-08-09T07:45:57.811Z</published>
     <updated>2025-08-09T08:48:35.958Z</updated>
     
