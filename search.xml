@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>100岁老奶奶看了都能学会的“Office白嫖”教程</title>
+      <link href="/posts/42c6d3b.html"/>
+      <url>/posts/42c6d3b.html</url>
+      
+        <content type="html"><![CDATA[<p><strong>声明：</strong> <em>本文仅用于技术学习与网络知识分享，请在遵守当地法律法规的前提下使用相关工具。</em></p><h1 id="%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7" tabindex="-1">下载安装工具</h1><h2 id="%E4%B8%8B%E8%BD%BD-office-tool-plus" tabindex="-1" id="下载-Office-Tool-Plus">下载 Office Tool Plus</h2><ol><li>打开项目主页：</li></ol><blockquote><p><a href="https://otp.landian.vip/zh-cn/">https://otp.landian.vip/zh-cn/</a></p></blockquote><ol start="2"><li>点击“立即下载”按钮</li></ol><p><img src="../../images/teach/office/1.png" alt="1.png"></p><ol start="3"><li>下载与您电脑系统匹配的安装包</li></ol><ul><li>一般选择 64 位</li><li>若您使用 32 位系统，或 ARM 架构，则根据情况另做选择</li></ul><h2 id="%E8%A7%A3%E5%8E%8B" tabindex="-1" id="解压">解压</h2><ol><li>下载完成后解压缩</li></ol><ul><li>右键压缩包，选择“全部解压缩（T）…”</li><li>点击提取</li></ul><ol start="2"><li>双击运行 Office Tool Plus.exe</li></ol><h1 id="%E5%AE%89%E8%A3%85-office" tabindex="-1">安装 Office</h1><ol><li>点击左边侧边栏的“部署”</li><li>在“部署 Office”下，勾选“创建桌面快捷方式”</li><li>在“产品”下，点击“添加产品（P）”</li></ol><ul><li>添加 Microsoft 365</li><li>勾选需要的应用程序，如Excel、PowerPoint、Word等</li></ul><ol start="4"><li>在“语言”下，点击“添加语言（L）”</li></ol><ul><li>添加 简体中文（中国）</li></ul><ol start="5"><li>在“部署 Office”下，点击“开始部署（D）”</li><li>耐心等待部署完成</li></ol><h1 id="%E6%BF%80%E6%B4%BB-office" tabindex="-1">激活 Office</h1><ol><li>以管理员身份打开命令行</li></ol><ul><li>方法一：右键开始菜单，点击“终端管理员”</li><li>方法二：按 Win + R 打开“运行”，输入 cmd</li></ul><ol start="2"><li>在打开的 PowerShell 或 cmd 中输入</li></ol><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">irm</span> https://get.activated.win | <span class="built_in">iex</span></span><br></pre></td></tr></table></figure><ol start="3"><li>在打开的窗口中依次输入：</li></ol><ul><li><strong>2</strong> （选择Office激活）</li><li><strong>1</strong> （执行激活）</li></ul><ol start="4"><li>耐心等待，直至提示 <strong>Office is permanently activated</strong></li></ol><ul><li>此过程请关闭后台的杀毒软件</li><li>如被杀毒软件拦截，请放行</li></ul><p>享受您的 Office！</p><p><em>提示：请根据所在地区的法律法规，合理合规地使用相关工具与服务</em></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>100岁老奶奶看了都能学会的“翻墙”教程</title>
       <link href="/posts/1b0d2efd.html"/>
       <url>/posts/1b0d2efd.html</url>
