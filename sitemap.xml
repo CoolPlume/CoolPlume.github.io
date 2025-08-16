@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://coolplume.github.io/posts/f4654180.html</loc>
+    
+    <lastmod>2025-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://coolplume.github.io/posts/503a2d73.html</loc>
+    
+    <lastmod>2025-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://coolplume.github.io/posts/58869e00.html</loc>
+    
+    <lastmod>2025-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://coolplume.github.io/posts/7a6a6b5a.html</loc>
     
     <lastmod>2025-08-15</lastmod>
@@ -12,24 +39,6 @@
   
   <url>
     <loc>https://coolplume.github.io/posts/4a17b156.html</loc>
-    
-    <lastmod>2025-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://coolplume.github.io/posts/58869e00.html</loc>
-    
-    <lastmod>2025-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://coolplume.github.io/posts/503a2d73.html</loc>
     
     <lastmod>2025-08-15</lastmod>
     
@@ -76,7 +85,7 @@
 
   <url>
     <loc>https://coolplume.github.io/</loc>
-    <lastmod>2025-08-15</lastmod>
+    <lastmod>2025-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

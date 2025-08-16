@@ -6,7 +6,7 @@
   <link href="https://coolplume.github.io/atom.xml" rel="self"/>
   
   <link href="https://coolplume.github.io/"/>
-  <updated>2025-08-15T10:54:21.956Z</updated>
+  <updated>2025-08-16T07:04:36.382Z</updated>
   <id>https://coolplume.github.io/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>sougou</title>
+    <link href="https://coolplume.github.io/posts/f4654180.html"/>
+    <id>https://coolplume.github.io/posts/f4654180.html</id>
+    <published>2025-08-16T06:16:35.535Z</published>
+    <updated>2025-08-16T07:04:36.382Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="%E5%89%8D%E8%A8%80" tabindex="-1">前言</h1><p>系统自带的输入法功能有限，用起来并不算顺手。而搜狗输入法虽然常被诟病有些“流氓”行为，但经过合理设置后，它的体验依旧无可替代：词库丰富、上手简单，经过精简配置后，既能避免多余的打扰，又能发挥出强大的输入优势。</p><h1 id="%E4%BC%98%E5%8A%BF" tabindex="-1">优势</h1><ul><li>云端同步：账号登录后即可实现词库、设置、个性化习惯的云同步，跨设备无缝使用。</li><li>强大词库：作为老牌输入法，搜狗积累了海量词汇，输入联想准确度高。</li><li>多样化皮肤：界面美观，个性化选择丰富。</li><li>成熟稳定：经过多年迭代，功能完善，兼容性强。</li></ul><h1 id="%E5%AE%89%E8%A3%85" tabindex="-1">安装</h1><ol><li>进入官网</li></ol><blockquote><p><a href="https://shurufa.sogou.com/windows">https://shurufa.sogou.com/windows</a></p></blockquote><ol start="2"><li><p>下载安装包<img src="../../images/software/sougou/1.png" alt="1.png"></p></li><li><p>运行安装包</p></li></ol><ul><li>若提示 UAC（用户账户控制），请选择允许<img src="../../images/software/sougou/2.png" alt="2.png"></li></ul><ol start="4"><li><p>勾选“已阅读并接受用户协议&amp;隐私政策”</p></li><li><p>点击 “自定义安装”<img src="../../images/software/sougou/3.png" alt="3.png"></p><ul><li>取消勾选“开启搜索候选，让输入和信息获取更简单”<img src="../../images/software/sougou/4.png" alt="4.png"></li></ul></li><li><p>点击“立即安装”</p></li><li><p>耐心等待进度完成</p></li><li><p>取消勾选“安装腾讯元宝”<img src="../../images/software/sougou/5.png" alt="5.png"></p></li><li><p>叉掉安装界面</p></li></ol><h1 id="%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE" tabindex="-1">初始配置</h1><p>安装完成后，需要进行一次配置，避免广告推送和无用功能干扰。</p><ol><li>右键单击任务栏输入法<img src="../../images/software/sougou/6.png" alt="6.png"></li><li>在打开的界面中，单击“更多设置（P）”</li><li>在“属性设置” -&gt; “常用”下，</li></ol><ul><li>勾选“隐藏状态栏”</li><li>取消勾选“显示输入法指示器”</li><li>取消勾选“状态栏嵌入语言栏”</li><li>取消勾选“标点配对：自动补全成对标点”</li><li>取消勾选“智能调整数字后标点”<img src="../../images/software/sougou/7.png" alt="7.png"><img src="../../images/software/sougou/8.png" alt="8.png"></li></ul><ol start="4"><li>在“属性设置” -&gt; “常用”下，可更改候选词个数</li><li>在“属性设置” -&gt; “账户”下，可登录账户以便于云同步</li><li>在“属性设置” -&gt; “账户”下，取消勾选“系统功能快捷键”<img src="../../images/software/sougou/9.png" alt="9.png"></li><li>在“属性设置” -&gt; “高级”下：</li></ol><ul><li>取消勾选“输入助手总开关”</li><li>取消勾选“开机自动启用”</li><li>取消勾选“i 模式换肤”</li><li>取消勾选“皮肤推荐”</li><li>取消勾选“皮肤弹泡推荐”</li><li>取消勾选“桌面右下角推荐”</li><li>取消勾选“搜索推荐”<img src="../../images/software/sougou/11.png" alt="11.png"><img src="../../images/software/sougou/10.png" alt="10.png"><img src="../../images/software/sougou/12.png" alt="12.png"></li><li>在“AI 汪仔：多功能 AI 助手”下：<img src="../../images/software/sougou/17.png" alt="17.png"></li><li><ul><li>取消勾选“等号搜索”<img src="../../images/software/sougou/13.png" alt="13.png"></li></ul></li><li><ul><li>取消勾选“AI 表情”</li></ul></li><li><ul><li>取消勾选“快捷搜索”<img src="../../images/software/sougou/14.png" alt="14.png"></li></ul></li><li><ul><li>取消勾选“划词工具”<img src="../../images/software/sougou/15.png" alt="15.png"></li></ul></li><li><ul><li>取消勾选“使用快捷键唤起 AI 汪仔”</li></ul></li><li><ul><li>在更多设置中，取消勾选“自启动 AI 汪仔”<img src="../../images/software/sougou/16.png" alt="16.png"></li></ul></li><li><ul><li>单击“退出应用”</li></ul></li><li>在“候选提示设置”下<img src="../../images/software/sougou/18.png" alt="18.png"></li><li><ul><li>取消勾选“快速搜索”</li></ul></li><li><ul><li>取消勾选“工具箱”<img src="../../images/software/sougou/19.png" alt="19.png"></li></ul></li><li>在“系统右键拓展管理”下<img src="../../images/software/sougou/20.png" alt="20.png"></li><li><ul><li>取消勾选“PDF 工具”</li></ul></li><li><ul><li>取消勾选“磁盘管理”</li></ul></li><li><ul><li>取消勾选“压缩”<img src="../../images/software/sougou/21.png" alt="21.png"></li></ul></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;%E5%89%8D%E8%A8%80&quot; tabindex=&quot;-1&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;系统自带的输入法功能有限，用起来并不算顺手。而搜狗输入法虽然常被诟病有些“流氓”行为，但经过合理设置后，它的体验依旧无可替代：词库丰富、上手简单，经过精简配置后，既能避免多余</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>菜场大妈用过都说好的软件推荐</title>
     <link href="https://coolplume.github.io/posts/58869e00.html"/>
     <id>https://coolplume.github.io/posts/58869e00.html</id>
     <published>2025-08-15T10:21:50.000Z</published>
-    <updated>2025-08-15T10:54:21.956Z</updated>
+    <updated>2025-08-16T06:30:02.585Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="%E5%89%8D%E8%A8%80" tabindex="-1">前言</h1><h1 id="%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95" tabindex="-1">软件目录</h1><h2 id="%E5%8E%8B%E7%BC%A9%E8%BD%AF%E4%BB%B6" tabindex="-1" id="压缩软件">压缩软件</h2><ul><li><a href="503a2d73.html"> 360 压缩 </a></li></ul><h2 id="%E8%BE%93%E5%85%A5%E6%B3%95" tabindex="-1" id="输入法">输入法</h2><ul><li><a href=".html"> 搜狗拼音输入法 </a></li></ul><h2 id="%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8" tabindex="-1" id="视频播放器">视频播放器</h2><ul><li><a href=".html"> PotPlayer </a></li></ul><h2 id="%E6%B5%8F%E8%A7%88%E5%99%A8" tabindex="-1" id="浏览器">浏览器</h2><ul><li><a href=".html"> Google Chrome </a></li></ul><h2 id="%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6" tabindex="-1" id="壁纸软件">壁纸软件</h2><ul><li><a href=".html"> Wallpaper Engine </a></li></ul><h2 id="%E5%AE%89%E5%85%A8%E8%BD%AF%E4%BB%B6" tabindex="-1" id="安全软件">安全软件</h2><ul><li><a href=".html"> 360 安全卫士（极速版） </a></li></ul><h2 id="%E8%BF%9C%E7%A8%8B%E8%BD%AF%E4%BB%B6" tabindex="-1" id="远程软件">远程软件</h2><ul><li><a href=".html"> UU 远程 </a></li></ul><h2 id="%E4%BA%91%E7%9B%98" tabindex="-1" id="云盘">云盘</h2><ul><li><a href=".html"> Google Drive </a></li></ul><h2 id="%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91" tabindex="-1" id="科学上网">科学上网</h2><ul><li><a href=".html"> Clash Verge </a></li></ul><h2 id="%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7" tabindex="-1" id="系统工具">系统工具</h2><ul><li><a href=".html"> 图吧工具箱 </a></li><li><a href=".html"> TrafficMonitor </a></li><li><a href=".html"> PowerToys </a></li><li><a href=".html"> Office Tool Plus </a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="%E5%89%8D%E8%A8%80" tabindex="-1">前言</h1><h1 id="%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95" tabindex="-1">软件目录</h1><h2 id="%E5%8E%8B%E7%BC%A9%E8%BD%AF%E4%BB%B6" tabindex="-1" id="压缩软件">压缩软件</h2><ul><li><a href="503a2d73.html"> 360 压缩 </a></li></ul><h2 id="%E8%BE%93%E5%85%A5%E6%B3%95" tabindex="-1" id="输入法">输入法</h2><ul><li><a href="f4654180.html"> 搜狗拼音输入法 </a></li></ul><h2 id="%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8" tabindex="-1" id="视频播放器">视频播放器</h2><ul><li><a href=".html"> PotPlayer </a></li></ul><h2 id="%E6%B5%8F%E8%A7%88%E5%99%A8" tabindex="-1" id="浏览器">浏览器</h2><ul><li><a href=".html"> Google Chrome </a></li></ul><h2 id="%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6" tabindex="-1" id="壁纸软件">壁纸软件</h2><ul><li><a href=".html"> Wallpaper Engine </a></li></ul><h2 id="%E5%AE%89%E5%85%A8%E8%BD%AF%E4%BB%B6" tabindex="-1" id="安全软件">安全软件</h2><ul><li><a href=".html"> 360 安全卫士（极速版） </a></li></ul><h2 id="%E8%BF%9C%E7%A8%8B%E8%BD%AF%E4%BB%B6" tabindex="-1" id="远程软件">远程软件</h2><ul><li><a href=".html"> UU 远程 </a></li></ul><h2 id="%E4%BA%91%E7%9B%98" tabindex="-1" id="云盘">云盘</h2><ul><li><a href=".html"> Google Drive </a></li></ul><h2 id="%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91" tabindex="-1" id="科学上网">科学上网</h2><ul><li><a href=".html"> Clash Verge </a></li></ul><h2 id="%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7" tabindex="-1" id="系统工具">系统工具</h2><ul><li><a href=".html"> 图吧工具箱 </a></li><li><a href=".html"> TrafficMonitor </a></li><li><a href=".html"> PowerToys </a></li><li><a href=".html"> Office Tool Plus </a></li></ul>]]></content>
     
     
       
@@ -43,15 +64,15 @@
     <link href="https://coolplume.github.io/posts/503a2d73.html"/>
     <id>https://coolplume.github.io/posts/503a2d73.html</id>
     <published>2025-08-15T10:20:14.000Z</published>
-    <updated>2025-08-15T10:46:04.471Z</updated>
+    <updated>2025-08-16T06:30:55.632Z</updated>
     
-    <content type="html"><![CDATA[<p>123</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="%E5%89%8D%E8%A8%80" tabindex="-1">前言</h1><p>很多人一提到 360，第一印象就是“流氓软件”。然而，360 旗下并非所有产品都不堪使用，其中的 <strong>360 压缩</strong> 就是一款少见的良心之作。</p><h1 id="%E4%BC%98%E5%8A%BF" tabindex="-1">优势</h1><ul><li><strong>无广告</strong>：配置后，界面干净清爽，不会被各种弹窗打扰</li><li><strong>操作简洁</strong>：功能入口直观，上手即用</li><li><strong>功能完善</strong>：常见的压缩、解压缩、分卷操作一应俱全</li></ul><h1 id="%E5%AE%89%E8%A3%85" tabindex="-1">安装</h1><ol><li>打开官网</li></ol><blockquote><p><a href="https://yasuo.360.cn/">https://yasuo.360.cn/</a></p></blockquote><ol start="2"><li><p>下载安装包<img src="../../images/software/360zip/1.png" alt="1.png"></p></li><li><p>运行安装包</p></li></ol><ul><li>若提示 UAC（用户账户控制），请选择允许<img src="../../images/software/360zip/2.png" alt="2.png"></li></ul><ol start="4"><li>点击 “自定义安装”<img src="../../images/software/360zip/3.png" alt="3.png"></li></ol><ul><li>取消勾选“加入用户体验计划”</li><li>取消勾选“设置 360 压缩为默认压缩软件”</li><li>取消勾选“安装完成后打开 360 压缩”</li></ul><ol start="5"><li>勾选“阅读并同意许可协议和隐私保护”</li><li>点击“立即安装”</li><li>耐心等待进度完成</li></ol><h1 id="%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE" tabindex="-1">初始配置</h1><ol><li>点开桌面上的“360 压缩”</li></ol><ul><li>若提示设置为默认软件提示，选择取消<img src="../../images/software/360zip/4.png" alt="4.png"></li></ul><ol start="2"><li>进入“设置” -&gt; “选项”<img src="../../images/software/360zip/5.png" alt="5.png"></li><li>在“查看文件”选项卡中，勾选：</li></ol><ul><li>用系统默认图片查看器打开</li><li>用系统默认 PDF 查看器打开<img src="../../images/software/360zip/6.png" alt="6.png"></li></ul><ol start="4"><li>在“改善计划”选项卡中，取消勾选“参加 360 用户体验改善计划”<img src="../../images/software/360zip/7.png" alt="7.png"></li><li>如有需求，可删除桌面的 “360 压缩”快捷方式</li><li>若弹窗提示应用访问权限，可“允许”<img src="../../images/software/360zip/8.png" alt="8.png"></li></ol><h1 id="360-%E5%A3%81%E7%BA%B8" tabindex="-1">360 壁纸</h1><ul><li>部分情况下，安装后会捆绑 <strong>360 壁纸/画报</strong> 等额外软件，可手动卸载：</li></ul><ol><li>打开“控制面板”</li><li>单击“卸载程序”<img src="../../images/software/360zip/12.png" alt="12.png"></li><li>找到“360 画报”<img src="../../images/software/360zip/13.png" alt="13.png"></li><li>右键单击</li><li>单击“卸载（U）”</li><li>单击“残忍卸载”<img src="../../images/software/360zip/14.png" alt="14.png"></li></ol><h1 id="%E4%BD%BF%E7%94%A8" tabindex="-1">使用</h1><h2 id="%E8%A7%A3%E5%8E%8B%E7%BC%A9" tabindex="-1" id="解压缩">解压缩</h2><ol><li>对着压缩包点击右键</li><li>单击“解压到（F）…”<img src="../../images/software/360zip/9.png" alt="9.png"></li><li>单击“高级选项”</li></ol><ul><li>3-5 步为个性化调整，按需使用</li><li>仅需一次配置，后续无需再改可直接按此设置解压<img src="../../images/software/360zip/10.png" alt="10.png"></li></ul><ol start="4"><li><p>勾选“解压后删除源文件”<img src="../../images/software/360zip/11.png" alt="11.png"></p></li><li><p>单击“保存设置”</p></li></ol><ul><li>若某次解压不希望删除原压缩包，可单独在那次取消勾选“解压后删除源文件”，但不单击“保存设置”</li></ul><ol start="6"><li>单击“立即解压”</li><li>解压过程中，可点击“详细信息”展开监控<img src="../../images/software/360zip/15.png" alt="15.png"><img src="../../images/software/360zip/16.png" alt="16.png"></li></ol><h2 id="%E5%8E%8B%E7%BC%A9" tabindex="-1" id="压缩">压缩</h2><ol><li>对于要压缩的文件/文件夹，单击右键</li><li>单击“添加到压缩文件（A）…”<img src="../../images/software/360zip/17.png" alt="17.png"></li><li>若无特殊需求，直接点击“立即压缩”，将会把文件压缩为.zip格式</li></ol><ul><li>选择体积最小，将会把文件压缩为.7z格式</li></ul><h2 id="%E5%88%86%E5%8D%B7%E5%8E%8B%E7%BC%A9" tabindex="-1" id="分卷压缩">分卷压缩</h2><p>某些时候，压缩过后的压缩包体积过于庞大，超出了部分储存格式（如Fat32）的限制，或超出了聊天软件传输文件的大小限制，此时可以选择分卷压缩</p><ol><li>同压缩的前两步骤</li><li>点选“自定义”</li><li>在“分卷压缩大小”中填写希望压缩的每一个分卷的大小</li></ol><ul><li>例如，希望压缩成每个只有 1 GB 大小的分卷压缩包，则填写 1024MB<img src="../../images/software/360zip/19.png" alt="19.png"></li></ul><ol start="4"><li>单击“立即压缩”</li></ol><ul><li>例如，2.2GB 文件会被分割为 1GB、1GB 和 0.2GB 三个分卷压缩包</li></ul><h2 id="%E5%88%86%E5%8D%B7%E8%A7%A3%E5%8E%8B%E7%BC%A9" tabindex="-1" id="分卷解压缩">分卷解压缩</h2><ol><li>确认分卷的完整，确保无遗漏的分卷</li></ol><ul><li>以 zip 格式的压缩包为例，上文刚压缩的 3 个分卷压缩包的后缀名应为 .zip.001、.zip.002、.zip.003，确保三个分卷压缩包都在</li></ul><ol start="2"><li>右键单击 001 压缩包<img src="../../images/software/360zip/18.png" alt="18.png"></li><li>正常解压</li></ol>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;123&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;%E5%89%8D%E8%A8%80&quot; tabindex=&quot;-1&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;很多人一提到 360，第一印象就是“流氓软件”。然而，360 旗下并非所有产品都不堪使用，其中的 &lt;strong&gt;360 压缩&lt;/strong&gt; 就是一款少见的良心之作。&lt;/</summary>
       
     
     
